@@ -21,7 +21,7 @@ const Pantalla3 = ({ navigation }) => {
     ];
 
     const coloresCalidos = [
-        { id: '1', nombre: 'Nephritis', descripcion: '#27AE60', imagen: 'https://enjoycss.com/webshots/jDj_0.png' },
+        { id: '1', nombre: 'Nephritis', descripcion: '#27AE60', imagen: 'https://ih1.redbubble.net/image.368416231.2054/fpp,small,lustre,wall_texture,product,750x1000.u3.jpg' },
         { id: '2', nombre: 'Belize hole', descripcion: '#2980B9', imagen: 'https://upload.wikimedia.org/wikipedia/commons/6/61/Great_Blue_Hole.jpg' },
         { id: '3', nombre: 'Wisteria', descripcion: '#8E44AD', imagen: 'https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/8/2021/03/GettyImages-1422256818.jpg' },
         { id: '4', nombre: 'Midnight blue', descripcion: '#2C3E50', imagen: 'https://content.latest-hairstyles.com/wp-content/uploads/midnight-blue-hair-1x1-1.jpg' },
